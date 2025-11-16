@@ -1,0 +1,11 @@
+body{background-color: black;}
+h1{font: size 3rem;
+    text-transform: uppercase;}
+.avocado-img{border: 5px solid white;
+        width:100%;}
+.passage{
+        width: 50%;
+        margin-left: 25%;
+        font-family: "Libre Baskerville",serif;
+        color: white;
+        text-align: center;}
